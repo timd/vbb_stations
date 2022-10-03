@@ -1,0 +1,60 @@
+[
+  {
+    "line" : "U1",
+    "stations" : [
+      ["009120004", "S+U Warschauer Str. (Berlin)", "Warschauer Stra\u00c3\u009fe"],
+      ["009014102", "U Schlesisches Tor (Berlin)", "Schlesisches Tor"],
+      ["009014101", "U G\u00f6rlitzer Bahnhof (Berlin)", "G\u00c3\u00b6rlitzer Bahnhof"],
+      ["009013102", "U Kottbusser Tor (Berlin)", "Kottbusser Tor"],
+      ["009013103", "U Prinzenstr. (Berlin)", "Prinzenstra\u00c3\u009fe"],
+      ["009012103", "U Hallesches Tor (Berlin)", "Hallesches Tor"],
+      ["009017104", "U M\u00f6ckernbr\u00fccke (Berlin)", "M\u00c3\u00b6ckernbr\u00c3\u00bccke"],
+      ["009017103", "U Gleisdreieck (Berlin)", "Gleisdreieck"],
+      ["009005201", "U Kurf\u00fcrstenstr. (Berlin)", "Kurf\u00c3\u00bcrstenstra\u00c3\u009fe"],
+      ["009056102", "U Nollendorfplatz (Berlin)", "Nollendorfplatz"],
+      ["009056101", "U Wittenbergplatz (Berlin)", "Wittenbergplatz"],
+      ["009023203", "U Kurf\u00fcrstendamm (Berlin)", "Kurf\u00c3\u00bcrstendamm"],
+      ["009023301", "U Uhlandstr. (Berlin)", "Uhlandstra\u00c3\u009fe"]
+    ]
+  },
+  {
+    "line" : "U2",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U3",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U4",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U5",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U6",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U7",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U8",
+    "stations" : [
+    ]
+  },
+  {
+    "line" : "U9",
+    "stations" : [
+    ]
+  }
+]
